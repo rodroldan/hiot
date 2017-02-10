@@ -10,7 +10,7 @@
 	<h1>Inicio</h1>
 
 	<div id="body">
-		<p>Estas en inicio rodignari</p>
+		<p>Estas en inicio</p>
         <p><?php print_r($diagnosticos);?> </p>
 	</div>
 </div>
